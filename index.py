@@ -36,7 +36,7 @@ def rename_and_mute_videos(directory, prefix, mute_audio_flag):
     files = os.listdir()
 
     # Filter out only the video files
-    video_files = [file for file in files if file.endswith('.mp4') or file.endswith('.MOV')]
+    video_files = [file for file in files if file.endswith('.mp4') or file.endswith('.MOV') or file.endswith('.MP4') or file.endswith('.mov')]
 
     # Disable all buttons and show loading state
     browse_button.config(state="disabled")

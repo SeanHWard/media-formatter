@@ -1,4 +1,4 @@
-('C:\\Users\\seanh\\Desktop\\file_renamer\\build\\index\\PYZ-00.pyz',
+('C:\\Users\\seanh\\Desktop\\media-formatter\\build\\index\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\seanh\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python39\\site-packages\\IPython\\__init__.py',
    'PYMODULE'),
